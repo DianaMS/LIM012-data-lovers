@@ -62,8 +62,12 @@ Y con ésta HU damos por terminado nuestro proyecto DATA LOVERS - Nueva Pokédex
 
 Quedando así:
 
+## Versión Desktop
 ![Vista 1 de la web](./img_readme/vista1.gif)
 ![vista 2 de la web](./img_readme/vista2.gif)
+
+## Versión Mobile
+![vista 2 de la web](./img_readme/vista_mobile.gif)
 
 Les invitamos a que visiten nuestra web, y si tienen alguna sugerencia llenar nuestra encuesta de **Ayudanos a mejorar!**  ubicada en la sección del pie de página. :)
 
@@ -84,7 +88,7 @@ Les invitamos a que visiten nuestra web, y si tienen alguna sugerencia llenar nu
 * [x] Incluye link a Figma en `README.md`.
 * [ ] Incluye el listado de problemas que detectaste a través de tests de
   usabilidad en el `README.md`.
-* [ ] UI: Muestra lista y/o tabla con datos y/o indicadores.
+* [x] UI: Muestra lista y/o tabla con datos y/o indicadores.
 * [x] UI: Permite ordenar data por uno o más campos (asc y desc).
 * [x] UI: Permite filtrar data en base a una condición.
 * [x] UI: Es _responsive_.
