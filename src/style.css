@@ -1,6 +1,7 @@
 ﻿* {
   margin: 0;
   padding: 0;
+  outline: none;
 }
 
 @font-face {
@@ -546,7 +547,7 @@ input.form-control:focus {
 		0 0 140px rgba(255, 251, 0, 1),
 		0 0 180px rgba(255, 251, 0, 1);
 }
-  
+
 #exit:hover {
   color: rgb(255, 255, 255);
   text-shadow:
