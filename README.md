@@ -135,6 +135,6 @@ Les invitamos a que visiten nuestra web, y si tienen alguna sugerencia llenar nu
 - [x] Colaborar en Github (`pull requests`).
 
 ### Buenas prácticas de desarrollo
-- [ ] Organizar y dividir el código en módulos (Modularización).
+- [x] Organizar y dividir el código en módulos (Modularización).
 - [x] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
 - [x] Utilizar linter para seguir buenas prácticas (ESLINT).
